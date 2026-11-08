@@ -1,4 +1,4 @@
-# qiira-content
+# qiita-content
 
 Qiitaに投稿した記事をGitHubで管理するためのリポジトリです。
 
